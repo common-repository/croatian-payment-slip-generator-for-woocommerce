@@ -1,0 +1,295 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Croatian payment slip generator for WooCommerce 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-07 20:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.1.2"
+
+msgid "(undefined)"
+msgstr ""
+
+msgid "[CRO] Payment slip or mobile banking"
+msgstr ""
+
+msgid "as image"
+msgstr ""
+
+msgid "as PDF"
+msgstr ""
+
+msgid "Attached file(s) of payment slip in e-mail message"
+msgstr ""
+
+msgid "Barcode can be added only to the payment slips for national payments."
+msgstr ""
+
+msgid "Barcode for mobile banking"
+msgstr ""
+
+msgid "Below you can find instructions required to make a payment:"
+msgstr ""
+
+msgid "Choose whether status you wish after checkout."
+msgstr ""
+"Odaberite status narudžbe nakon korisnikovog naručivanja robe ovom opcijom."
+
+#. Name of the plugin
+msgid "Croatian payment slip generator for WooCommerce"
+msgstr ""
+
+msgid "Currency code"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Display confirmation part"
+msgstr ""
+
+msgid "Display confirmation part of the payment slip"
+msgstr ""
+
+msgid "Display image(s) inline in e-mail message body"
+msgstr ""
+
+msgid ""
+"Display image(s) of payment slip inline in e-mail message body (deselect if "
+"you encounter an issue where customers are not receiving e-mail confirmation)"
+msgstr ""
+
+msgid "Download payment slip"
+msgstr ""
+
+msgid "Downloadable file(s) of payment slip on website"
+msgstr ""
+
+msgid "Enable payment slip generator for Croatia"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid ""
+"Font being used for the text that won't be displayed in fields with cells "
+"for each character"
+msgstr ""
+
+msgid "Generate barcode in PDF417 format"
+msgstr ""
+
+msgid ""
+"Height is being scaled to width proportionally. Leave empty if you don't "
+"want to specify dimensions of inline image. Not recommended since in some e-"
+"mail clients like Windows 10 Mail UWP app the image would be shown in its "
+"original size instead of maximum available space thus often causing the need "
+"for using horizontal slider in order to see complete content of the e-mail "
+"message."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/zeko868"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/croatian-payment-slip-generator-for-"
+"woocommerce/"
+msgstr ""
+
+msgid "If none specified, the one from the order information will be used"
+msgstr ""
+
+msgid ""
+"If your bank account is registered outside of Croatia, you should select "
+"'universal'."
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+msgid "Intent code"
+msgstr ""
+
+msgid "legal"
+msgstr ""
+
+msgid "Main font"
+msgstr ""
+
+msgid ""
+"Make it easy for your customers from Croatia to perform direct bank transfer "
+"with generated and pre-filled payment slip, along with mobile banking by "
+"simple barcode scanning."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Make it easy for your customers from Croatia to perform direct bank transfer "
+"with generated payment slip, along with barcode for mBanking."
+msgstr ""
+
+#. Author of the plugin
+msgid "Petar Šestak"
+msgstr ""
+
+msgid "monospaced"
+msgstr ""
+
+msgid "national"
+msgstr ""
+
+msgid "natural"
+msgstr ""
+
+msgid "normal version"
+msgstr ""
+
+msgid "Note: "
+msgstr ""
+
+msgid "Options for national payment slip type"
+msgstr ""
+
+msgid "Options for universal payment slip type"
+msgstr ""
+
+msgid "Order Status"
+msgstr ""
+
+msgid "Other options"
+msgstr ""
+
+msgid "Output image type"
+msgstr ""
+
+msgid ""
+"Pay using generated and pre-filled payment slip or by scanning a barcode "
+"through your mobile banking app"
+msgstr ""
+
+msgid "Pay using payment slip or mobile banking"
+msgstr ""
+
+msgid "Payment description"
+msgstr ""
+
+msgid "Payment gateway description on checkout."
+msgstr ""
+
+msgid "Payment gateway title on checkout."
+msgstr ""
+
+msgid "Payment model"
+msgstr ""
+
+msgid "Payment slip image"
+msgstr ""
+
+msgid "Payment slip type"
+msgstr ""
+
+msgid "payment-slip"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "print version"
+msgstr ""
+
+msgid "Problem loading image of payment slip"
+msgstr ""
+
+msgid "proportional"
+msgstr ""
+
+msgid "Recipient address"
+msgstr ""
+
+msgid "Recipient bank name"
+msgstr ""
+
+msgid "Recipient city"
+msgstr ""
+
+msgid "Recipient name"
+msgstr ""
+
+msgid "Recipient person type"
+msgstr ""
+
+msgid "Recipient postal code"
+msgstr ""
+
+msgid "Recipient SWIFT/BIC code"
+msgstr ""
+
+msgid "Recipient's IBAN"
+msgstr ""
+
+msgid "Recipient's reference number"
+msgstr ""
+
+msgid "SEPA transfer currency code"
+msgstr ""
+
+msgid "SWIFT charge option"
+msgstr ""
+
+msgid ""
+"This feature might not work if you are using dedicated SMTP service provider "
+"causing e-mails about order completion not being delivered, even if you "
+"aren't actually attaching images. In case you are using it and you've "
+"noticed that customers are not receiving e-mail confirmation on order "
+"creation, disabling this feature should help - images will be then treated "
+"as regular attachment, but at least the e-mails will be delivered to the "
+"customers!"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Type of the image with the generated payment slip"
+msgstr ""
+
+msgid "universal"
+msgstr ""
+
+msgid ""
+"Variables such as %order%, %date%, %year%, %month% and %day% can be used."
+msgstr ""
+
+msgid ""
+"Which side will have to pay payment fee/costs. BEN for other side, OUR for "
+"us or SHA for cost sharing"
+msgstr ""
+
+msgid "Width of the inline image in e-mail message"
+msgstr ""
+
+msgid ""
+"Zero or more files of generated payment slip to be included as attachments "
+"of order completion e-mail message. Note that images will be embedded inside "
+"of e-mail message body if selected and if supported by user e-mail client"
+msgstr ""
+
+msgid ""
+"Zero or more files of generated payments slip to be available for download "
+"on the thank you page that is shown after order completion. If no options "
+"are selected, download button isn't shown. If multiple options are selected, "
+"then click on the download button displays dropdown for selection of file "
+"type with payment slip to download"
+msgstr ""

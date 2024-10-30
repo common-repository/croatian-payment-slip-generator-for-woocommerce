@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Croatian payment slip generator for WooCommerce 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-11 14:41+0000\n"
+"PO-Revision-Date: 2021-10-06 09:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Croatian\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1"
+
+msgid "(undefined)"
+msgstr "(nedefinirano)"
+
+msgid "[CRO] Payment slip or mobile banking"
+msgstr "Plaćanje putem opće uplatnice ili mobilnim bankarstvom"
+
+msgid "as image"
+msgstr "kao sliku"
+
+msgid "as PDF"
+msgstr "kao PDF dokument"
+
+msgid "Attached file(s) of payment slip in e-mail message"
+msgstr "Datoteke s uplatnicom priložene u e-mail poruci"
+
+msgid "Barcode can be added only to the payment slips for national payments."
+msgstr "Barkod može biti dodan samo na naloge za nacionalna plaćanja."
+
+msgid "Barcode for mobile banking"
+msgstr "Barkod za mobilno bankarstvo"
+
+msgid "Below you can find instructions required to make a payment:"
+msgstr "U nastavku slijede upute za plaćanje Vaše narudžbe:"
+
+msgid "Choose whether status you wish after checkout."
+msgstr ""
+"Odaberite status narudžbe nakon korisnikovog naručivanja robe ovom opcijom."
+
+#. Name of the plugin
+msgid "Croatian payment slip generator for WooCommerce"
+msgstr ""
+"WooCommerce modul za plaćanje putem opće uplatnice ili mobilnim bankarstvom"
+
+msgid "Currency code"
+msgstr "Šifra valute"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Display confirmation part"
+msgstr "Prikaži potvrdni listić"
+
+msgid "Display confirmation part of the payment slip"
+msgstr "Prikaži potvrdni listić (desni dio) na općoj uplatnici"
+
+msgid "Display image(s) inline in e-mail message body"
+msgstr "Integracija priloženih slika u samom tijelu e-mail poruka"
+
+msgid ""
+"Display image(s) of payment slip inline in e-mail message body (deselect if "
+"you encounter an issue where customers are not receiving e-mail confirmation)"
+msgstr ""
+"Integracija generiranih slika opće uplatnice u samom tijelu e-mail poruka "
+"(odznačite ovu opciju ukoliko naiđete na problem pri kojem korisnici ne "
+"dobivaju e-mail potvrdu o kreiranoj narudžbi)"
+
+msgid "Download payment slip"
+msgstr "Preuzmi uplatnicu"
+
+msgid "Downloadable file(s) of payment slip on website"
+msgstr "Datoteke s uplatnicom raspoložive za preuzimanje na web-stranici"
+
+msgid "Enable payment slip generator for Croatia"
+msgstr "Omogući plaćanje općom uplatnicom"
+
+msgid "Enable/Disable"
+msgstr "Omogući"
+
+msgid ""
+"Font being used for the text that won't be displayed in fields with cells "
+"for each character"
+msgstr ""
+"Font koji će se primijeniti na tekst koji neće biti prikazan u poljima s "
+"ćelijama za svaki pojedini znak"
+
+msgid "Generate barcode in PDF417 format"
+msgstr "Generiraj barkod u PDF417 formatu"
+
+msgid ""
+"Height is being scaled to width proportionally. Leave empty if you don't "
+"want to specify dimensions of inline image. Not recommended since in some e-"
+"mail clients like Windows 10 Mail UWP app the image would be shown in its "
+"original size instead of maximum available space thus often causing the need "
+"for using horizontal slider in order to see complete content of the e-mail "
+"message."
+msgstr ""
+"Visina slike se proporcionalno prilagođava navedenoj širini. Ostavite ovo "
+"polje praznim ukoliko ne želite specificirati dimenzije ugrađene slike. No "
+"to se baš ne preporuča budući neki e-mail klijenti poput aplikacije Pošta iz "
+"Windows 10 bi prikazali sliku u originalnim dimenzijama umjesto da ju "
+"prilagode raspoloživom prostoru zbog čega bi korisnik trebao koristiti "
+"horizontalne klizače kako bi bio u mogućnosti vidjeti sav sadržaj e-mail "
+"poruke."
+
+#. Author URI of the plugin
+msgid "https://github.com/zeko868"
+msgstr "https://github.com/zeko868"
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/croatian-payment-slip-generator-for-"
+"woocommerce/"
+msgstr ""
+"https://hr.wordpress.org/plugins/croatian-payment-slip-generator-for-"
+"woocommerce/"
+
+msgid "If none specified, the one from the order information will be used"
+msgstr ""
+"Ako se ništa ne navede, koristit će se ona koja je navedena u podacima o "
+"provedenoj narudžbi"
+
+msgid ""
+"If your bank account is registered outside of Croatia, you should select "
+"'universal'."
+msgstr ""
+"Ako je Vaš bankovni račun izvan Republike Hrvatske, odaberite 'univerzalni' "
+"kao tip naloga/opće uplatnice"
+
+msgid "Instructions"
+msgstr "Upute za plaćanje"
+
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+"Upute za plaćanje koje će biti nadodane na stranicu sa zahvalom o kupovini "
+"kao i u e-mail poruku."
+
+msgid "Intent code"
+msgstr "Svrha plaćanja"
+
+msgid "legal"
+msgstr "pravna"
+
+msgid "Main font"
+msgstr "Glavni font"
+
+msgid ""
+"Make it easy for your customers from Croatia to perform direct bank transfer "
+"with generated and pre-filled payment slip, along with mobile banking by "
+"simple barcode scanning."
+msgstr ""
+"Plaćanje putem opće uplatnice (generira se popunjeni virman) ili mobilnim "
+"bankarstvom (spomenuta uplatnica ima na sebi barkod za skeniranje)."
+
+#. Description of the plugin
+msgid ""
+"Make it easy for your customers from Croatia to perform direct bank transfer "
+"with generated payment slip, along with barcode for mBanking."
+msgstr ""
+"Olakšajte svojim korisnicima plaćanje dodavanjem mogućnosti plaćanja općom "
+"uplatnica kao i mobilnim bankarstvom."
+
+#. Author of the plugin
+msgid "Petar Šestak"
+msgstr "Petar Šestak"
+
+msgid "monospaced"
+msgstr "neproporcionalni"
+
+msgid "national"
+msgstr "nacionalni"
+
+msgid "natural"
+msgstr "fizička"
+
+msgid "normal version"
+msgstr "normalna verzija"
+
+msgid "Note: "
+msgstr "Napomena: "
+
+msgid "Options for national payment slip type"
+msgstr "Postavke vezane uz nalog za nacionalna plaćanja"
+
+msgid "Options for universal payment slip type"
+msgstr "Postavke vezane uz univerzalni nalog za plaćanje"
+
+msgid "Order Status"
+msgstr "Status narudžbe"
+
+msgid "Other options"
+msgstr "Ostale opcije"
+
+msgid "Output image type"
+msgstr "Format izlazne slike"
+
+msgid ""
+"Pay using generated and pre-filled payment slip or by scanning a barcode "
+"through your mobile banking app"
+msgstr "Plaćanje općom uplatnicom (virman) ili mobilnim bankarstvom (bar kod)"
+
+msgid "Pay using payment slip or mobile banking"
+msgstr "Plaćanje općom uplatnicom ili mobilnim bankarstvom"
+
+msgid "Payment description"
+msgstr "Opis plaćanja"
+
+msgid "Payment gateway description on checkout."
+msgstr "Opis metode plaćanja za prikaz prilikom plaćanja"
+
+msgid "Payment gateway title on checkout."
+msgstr "Naziv metode plaćanja za prikaz prilikom plaćanja"
+
+msgid "Payment model"
+msgstr "Model plaćanja"
+
+msgid "Payment slip image"
+msgstr "slika opće uplatnice"
+
+msgid "Payment slip type"
+msgstr "Tip opće uplatnice"
+
+msgid "payment-slip"
+msgstr "uplatnica"
+
+msgid "print"
+msgstr "tisak"
+
+msgid "print version"
+msgstr "verzija za tisak"
+
+msgid "Problem loading image of payment slip"
+msgstr "Problem kod učitavanja slike uplatnice"
+
+msgid "proportional"
+msgstr "proporcionalni"
+
+msgid "Recipient address"
+msgstr "Adresa primatelja"
+
+msgid "Recipient bank name"
+msgstr "Naziv banke primatelja"
+
+msgid "Recipient city"
+msgstr "Naziv mjesta poštanskog ureda primatelja"
+
+msgid "Recipient name"
+msgstr "Naziv primatelja"
+
+msgid "Recipient person type"
+msgstr "Tip osobe primatelja"
+
+msgid "Recipient postal code"
+msgstr "Poštanski broj primatelja"
+
+msgid "Recipient SWIFT/BIC code"
+msgstr "SWIFT/BIC kod primatelja"
+
+msgid "Recipient's IBAN"
+msgstr "IBAN primatelja"
+
+msgid "Recipient's reference number"
+msgstr "Poziv na broj primatelja"
+
+msgid "SEPA transfer currency code"
+msgstr "Oznaka valute za SEPA prijenos"
+
+msgid "SWIFT charge option"
+msgstr "SWIFT troškovna opcija"
+
+msgid ""
+"This feature might not work if you are using dedicated SMTP service provider "
+"causing e-mails about order completion not being delivered, even if you "
+"aren't actually attaching images. In case you are using it and you've "
+"noticed that customers are not receiving e-mail confirmation on order "
+"creation, disabling this feature should help - images will be then treated "
+"as regular attachment, but at least the e-mails will be delivered to the "
+"customers!"
+msgstr ""
+"Ova značajka Vam možda neće raditi ukoliko koristite kakvog zasebnog "
+"pružatelja SMTP usluge uzrokujući pritom da kupcima ne budu dostavljene e-"
+"mail poruke o završetku narudžbe, čak ukoliko se zapravo ni ne prilažu "
+"konkretno slike. U slučaju da korištite ovu značajku te primijetite da kupci "
+"ne primaju potvrde o kreiranoj narudžbi putem e-maila, njeno isključivanje "
+"bi trebalo pomoći - slike će se tada tretirati kao uobičajeni privici, no "
+"barem će e-mail poruke biti dostavljene kupcima!"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "Type of the image with the generated payment slip"
+msgstr "Format slike s generiranom općom uplatnicom"
+
+msgid "universal"
+msgstr "univerzalni"
+
+msgid ""
+"Variables such as %order%, %date%, %year%, %month% and %day% can be used."
+msgstr "Možete koristiti %order%, %date%, %year%, %month% i %day% varijable."
+
+msgid ""
+"Which side will have to pay payment fee/costs. BEN for other side, OUR for "
+"us or SHA for cost sharing"
+msgstr ""
+"Koja strana plaća naknadu za SEPA prijenos. BEN za drugu stranu, OUR za Vas "
+"ili SHA za podjelu troškova"
+
+msgid "Width of the inline image in e-mail message"
+msgstr "Širina slike u tijelu e-mail poruke"
+
+msgid ""
+"Zero or more files of generated payment slip to be included as attachments "
+"of order completion e-mail message. Note that images will be embedded inside "
+"of e-mail message body if selected and if supported by user e-mail client"
+msgstr ""
+"Nula ili više datoteka s generiranom slikom opće uplatnice koje će biti "
+"priložene u e-mail poruci za kupca o uspješno-kreiranoj narudžbi. Napomena "
+"da odabirom slikovnih datoteka će one ujedno biti ugrađene unutar samog "
+"sadržaja e-mail poruke, ukoliko je takav način prikaza slika podržan od "
+"strane korisnikove klijentske aplikacije za rad s e-poštom"
+
+msgid ""
+"Zero or more files of generated payments slip to be available for download "
+"on the thank you page that is shown after order completion. If no options "
+"are selected, download button isn't shown. If multiple options are selected, "
+"then click on the download button displays dropdown for selection of file "
+"type with payment slip to download"
+msgstr ""
+"Nula ili više datoteka s generiranom slikom opće uplatnice koje će biti "
+"raspoložive za preuzimanje na web-stranici s detaljima o kreiranoj narudžbi. "
+"Ukoliko nijedna od opcija nije označena, tipka za preuzimanje neće biti "
+"prikazana. Ako je pak označeno više opcija, tada će se klikom na tipku za "
+"preuzimanje prikazati padajući izbornik za odabir željenog tipa datoteke s "
+"općom uplatnicom za preuzimanje"
